@@ -1,2 +1,2 @@
 # UniparkWeb
-Este software utiliza -  postgresql, react, nodejs/Express, bootstrap, 
+Este software utiliza -  react, bootstrap, 
